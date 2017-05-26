@@ -1,0 +1,65 @@
+﻿.exampleWrapper
+{
+    width: 880px;
+    height: 467px;
+    background: transparent url(images/background.png) no-repeat top left;
+    position: relative;
+}
+.tabStrip
+{
+    position: absolute;
+    top: 79px;
+    left: 101px;
+}
+.multiPage
+{
+    position: absolute;
+    top: 106px;
+    left: 101px;
+    color: white;
+    width: 679px;
+    height: 362px;
+}
+
+.multiPage p
+{
+    margin-left: 40px;
+}
+
+.multiPage ul
+{
+    list-style: none;
+    width: 520px;
+    border-bottom: 1px solid #8d9396;
+}
+.multiPage label
+{
+    float: left;
+    width: 120px;
+    padding-left: 16px;
+}
+
+.multiPage li
+{
+    border-top: 1px solid #8d9396;
+    line-height: 23px;
+}
+.multiPage .pageViewEducation label
+{
+    width: 220px;
+}
+
+.multiPage .riLabel
+{
+    width: 115px;
+}
+
+.multiPage .rcbLabel
+{
+    width: 109px;
+}
+
+#btnSend
+{
+    margin-left: 135px;
+}

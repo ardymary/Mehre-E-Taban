@@ -1,0 +1,115 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="SiteMaster" %>
+
+<%@ Register assembly="Telerik.Web.UI" namespace="Telerik.Web.UI" tagprefix="telerik" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style17
+        {
+            text-align: center;
+        }
+        .style18
+        {
+            font-family: Tahoma;
+        }
+        .style19
+        {
+            color: #99FFCC;
+        }
+        .style20
+        {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    </head>
+<body>
+    <form runat="server">
+    <div class="style16" align="center" dir="rtl" style="height: auto">
+        <telerik:RadScriptManager ID="RadScriptManager2" Runat="server">
+        </telerik:RadScriptManager>
+        <telerik:RadStyleSheetManager ID="RadStyleSheetManager2" Runat="server">
+        </telerik:RadStyleSheetManager>
+        <div>
+                </div>
+        <div dir="rtl">
+            <div class="header">
+                <h1>
+                    <asp:Image ID="Image1" runat="server" Height="52px" 
+                        ImageUrl="~/Mehr-Design/logo.png" Width="315px" />
+                </h1>
+                <span class="style18">
+            <span class="style19">امروز&nbsp;</span><asp:Label ID="Label_Date" runat="server" 
+                    CssClass="style38" ForeColor="#3333FF" style="color: #99FFCC"></asp:Label>
+                </span>&nbsp;</div>
+            <div align="center">
+                <table align="center" cellspacing="1" style="height: 14px; width: 1016px">
+                    <tr>
+                        <td>
+                <telerik:RadMenu ID="RadMenu2" Runat="server" Font-Names="B Traffic" 
+                    Skin="Metro" 
+                    
+                    
+                    style="top: 0px; height: 28px; width: 290px; font-family: 'B Tabassom'; ">
+                    <Items>
+                        <telerik:RadMenuItem runat="server" Font-Names="B Traffic" Font-Size="10pt" 
+                            NavigateUrl="~/Login.aspx" Text="صفحه اصلی" Font-Underline="True">
+                        </telerik:RadMenuItem>
+                        <telerik:RadMenuItem runat="server" Font-Names="B Traffic" Font-Size="10pt" 
+                            NavigateUrl="~/About.aspx" Owner="RadMenu2" Text="درباره سامانه">
+                        </telerik:RadMenuItem>
+                        <telerik:RadMenuItem runat="server" Font-Names="B Traffic" Font-Size="10pt" 
+                            NavigateUrl="~/Support.aspx" Owner="RadMenu2" Text="پشتیبانی">
+                        </telerik:RadMenuItem>
+                    </Items>
+                </telerik:RadMenu>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="style17">
+        
+        <span class="style12" 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+        © 1392 سها رایانه &nbsp;،تمامي حقوق محفوظ است<span class="Apple-converted-space">&nbsp;</span></span><br 
+            class="style5" 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(0, 68, 139);" />
+        <span class="style12" 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+        Copyright © 2013<span class="Apple-converted-space">&nbsp;</span></span><span 
+            class="style194" 
+            style="padding: 0px; font-size: 8pt; font-family: Tahoma; color: rgb(0, 153, 255); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><a 
+            id="HyperLink2" class="style5" href="mailto:info@sohacomputer.com/" 
+            
+            style="padding: 0px; font-family: Tahoma; height: 62px; width: 731px; text-decoration: none;"><span 
+            class="style14">Soha 
+        Computer</span></a></span><span 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span 
+            class="style5">&nbsp;</span></span><span class="style194" 
+            
+            style="padding: 0px; font-size: 8pt; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span 
+            class="style5" 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">&nbsp;, 
+        All rights reserved</span></span></div>
+    </form>
+    </body>
+</html>

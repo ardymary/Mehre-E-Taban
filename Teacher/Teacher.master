@@ -1,0 +1,154 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Teacher.master.cs" Inherits="SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style5
+        {
+            font-size: xx-small;
+        }
+        .style9
+        {
+            text-align: center;
+        }
+        .style10
+        {
+            color: #034AF3;
+        }
+        .style11
+        {
+            color: #CCFFFF;
+            font-family: Tahoma;
+        }
+        .style12
+        {
+            font-size: xx-small;
+            color: #CCCCCC;
+        }
+        .style14
+        {
+            color: #009900;
+        }
+        .style15
+        {
+            display: block;
+            float: left;
+            text-align: center;
+            width: 1001px;
+            height: auto;
+            font-family: tahoma;
+        }
+        .style39
+        {
+            font-family: Tahoma;
+        }
+    .style25
+    {
+        color: #33CCFF;
+    }
+        .style38
+        {
+            height: 36px;
+            text-align: center;
+            color: #0099FF;
+        }
+        .style40
+        {
+            text-align: right;
+        }
+        .style41
+        {
+            color: #009933;
+        }
+        </style>
+</head>
+<body>
+    <form runat="server">
+    <div align="center" class="style40">
+        <asp:LoginView 
+                    ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        <div class="style11" align="right">
+                            [خوش آمدید! <a href="~/Account/Login.aspx"><span class="style10">ورود به سامانه</span></a> 
+                            ]
+                        </div>
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        <div class="style9">
+                            &nbsp;<asp:LoginStatus ID="HeadLoginStatus" runat="server" CssClass="style11" 
+                                LoginText="خـــروج" LogoutAction="Redirect" LogoutPageUrl="~/" 
+                                LogoutText="" />
+                        </div>
+                    </LoggedInTemplate>
+                </asp:LoginView>
+                </div>
+    <div class="page" align="center" dir="rtl">
+        <div class="header" dir="rtl" align="center">
+            <div class="style15" align="center">
+                <h2 class="style41">
+                    پنل آموزگار</h2>
+                &nbsp;<br />
+                <span class="style39">
+            <span class="style25">امروز&nbsp;</span><asp:Label ID="Label_Date" runat="server" 
+                    CssClass="style38" ForeColor="#00CCFF"></asp:Label>
+                </span>&nbsp;</div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" 
+                    EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal" 
+                    RenderingMode="List" 
+                    style="font-family: Tahoma; font-size: 10pt">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="پنل کاربری">
+                            <asp:MenuItem Text="تغییر رمز" Value="تغییر رمز"></asp:MenuItem>
+                        </asp:MenuItem>
+                        <asp:MenuItem Text="درج نمرات" Value="درج نمرات"></asp:MenuItem>
+                        <asp:MenuItem Text="برنامه آموزشی" Value="New Item"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="پشتیبانی"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer" 
+        style="border-top-style: groove; border-width: thin; border-top-color: #4B6C9E">
+        
+        <span class="style12" 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+        © 1392 سها رایانه &nbsp;،تمامي حقوق محفوظ است<span class="Apple-converted-space">&nbsp;</span></span><br 
+            class="style5" 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; background-color: rgb(0, 68, 139);" />
+        <span class="style12" 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">
+        Copyright © 2013<span class="Apple-converted-space">&nbsp;</span></span><span 
+            class="style194" 
+            style="padding: 0px; font-size: 8pt; font-family: Tahoma; color: rgb(0, 153, 255); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><a 
+            id="HyperLink2" class="style5" href="mailto:info@sohacomputer.com/" 
+            
+            style="padding: 0px; font-family: Tahoma; height: 62px; width: 731px; text-decoration: none;"><span 
+            class="style14">Soha 
+        Computer</span></a></span><span 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span 
+            class="style5">&nbsp;</span></span><span class="style194" 
+            
+            style="padding: 0px; font-size: 8pt; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span 
+            class="style5" 
+            
+            style="padding: 0px; font-family: Tahoma; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;">&nbsp;, 
+        All rights reserved</span></span></div>
+    </form>
+</body>
+</html>

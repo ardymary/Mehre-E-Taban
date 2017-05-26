@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\About.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\About.aspx" />
+  <event action="Analyze" type="Success" name="About.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\About.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ManageUsers.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ManageUsers.aspx" />
+  <event action="Analyze" type="Success" name="ManageUsers.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\ManageUsers.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Register.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\UserInformation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\UserInformation.aspx" />
+  <event action="Analyze" type="Success" name="UserInformation.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Account\UserInformation.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Admin.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Admin.master" />
+  <event action="Analyze" type="Success" name="Admin.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Admin.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Basic.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="ClassTeacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="SearchClass.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\DeleteCheck.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\DeleteCheck.aspx" />
+  <event action="Analyze" type="Success" name="DeleteCheck.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\DeleteCheck.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Analyze" type="Success" name="Main.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\News.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\News.aspx" />
+  <event action="Analyze" type="Success" name="News.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\News.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Analyze" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="SearchChecks.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Searchteacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Sinfo.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Sinfo.aspx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\About.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\About.aspx" />
+  <event action="Analyze" type="Success" name="About.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\About.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ManageUsers.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ManageUsers.aspx" />
+  <event action="Analyze" type="Success" name="ManageUsers.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\ManageUsers.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Register.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\Register.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\UserInformation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\UserInformation.aspx" />
+  <event action="Analyze" type="Success" name="UserInformation.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Account\UserInformation.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Admin.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Admin.master" />
+  <event action="Analyze" type="Success" name="Admin.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Admin.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Basic.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="ClassTeacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="SearchClass.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\DeleteCheck.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\DeleteCheck.aspx" />
+  <event action="Analyze" type="Success" name="DeleteCheck.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\DeleteCheck.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Analyze" type="Success" name="Main.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\News.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\News.aspx" />
+  <event action="Analyze" type="Success" name="News.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\News.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Analyze" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="SearchChecks.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Searchteacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Sinfo.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Sinfo.aspx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\web.config" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Report.dll.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Consult.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Consult.aspx" />
+  <event action="Analyze" type="Success" name="Consult.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Consult.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Consult.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Consult.master" />
+  <event action="Analyze" type="Success" name="Consult.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Consult.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\StudentsConsultation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\StudentsConsultation.aspx" />
+  <event action="Analyze" type="Success" name="StudentsConsultation.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\StudentsConsultation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\DataAccessFields\bin\" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\DataAccessLayer\bin\" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Basic.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Check\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Check\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="SearchChecks.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Check\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Finance.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Finance.aspx" />
+  <event action="Analyze" type="Success" name="Finance.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Finance.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Finance.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Finance.master" />
+  <event action="Analyze" type="Success" name="Finance.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Finance.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Analyze" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Searchteacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Sinfo.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Hygien.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Hygien.aspx" />
+  <event action="Analyze" type="Success" name="Hygien.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Hygien.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Hygiene.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Hygiene.master" />
+  <event action="Analyze" type="Success" name="Hygiene.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Hygiene.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\StudentsHygiene.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\StudentsHygiene.aspx" />
+  <event action="Analyze" type="Success" name="StudentsHygiene.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\StudentsHygiene.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Login.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Login.aspx" />
+  <event action="Analyze" type="Success" name="Login.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Login.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Noaccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Noaccess.aspx" />
+  <event action="Analyze" type="Success" name="Noaccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Noaccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Balance.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Balance.resx" />
+  <event action="Analyze" type="Success" name="Bedehi.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Bedehi.resx" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\bin\" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Report.dll.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Discount.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Discount.resx" />
+  <event action="Analyze" type="Success" name="Email.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Email.resx" />
+  <event action="Analyze" type="Success" name="Lunch.fa-IR.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Lunch.fa-IR.resx" />
+  <event action="Analyze" type="Success" name="Lunch.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Lunch.resx" />
+  <event action="Analyze" type="Success" name="Printf1.fa-IR.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Printf1.fa-IR.resx" />
+  <event action="Analyze" type="Success" name="Printf1.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Printf1.resx" />
+  <event action="Analyze" type="Success" name="Receipt.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Receipt.resx" />
+  <event action="Analyze" type="Success" name="Status.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Status.resx" />
+  <event action="Analyze" type="Success" name="Student.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Student.resx" />
+  <event action="Analyze" type="Success" name="Teacher.fa.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Teacher.fa.resx" />
+  <event action="Analyze" type="Success" name="Teacher.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Teacher.resx" />
+  <event action="Analyze" type="Success" name="Tellist.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Tellist.resx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\ShowNews.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\ShowNews.aspx" />
+  <event action="Analyze" type="Success" name="ShowNews.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\ShowNews.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Site.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Site.master" />
+  <event action="Analyze" type="Success" name="Site.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Site.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\Main.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\Main.aspx" />
+  <event action="Analyze" type="Success" name="Main.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\Main.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\Student.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\Student.master" />
+  <event action="Analyze" type="Success" name="Student.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\Student.master" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Support.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Support.aspx" />
+  <event action="Analyze" type="Success" name="Support.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Support.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Searchteacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\Teacher.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\Teacher.master" />
+  <event action="Analyze" type="Success" name="Teacher.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\Teacher.master" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Basic.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="ClassTeacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="SearchClass.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Main.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Main.aspx" />
+  <event action="Analyze" type="Success" name="Main.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Main.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\News.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\News.aspx" />
+  <event action="Analyze" type="Success" name="News.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\News.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Report.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Report.aspx" />
+  <event action="Analyze" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Report.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Searchteacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Sinfo.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\User.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\User.master" />
+  <event action="Analyze" type="Success" name="User.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\User.master" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\app.config" />
+  <event action="Analyze" type="Success" name="Balance.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Balance.resx" />
+  <event action="Analyze" type="Success" name="Bedehi.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Bedehi.resx" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\bin\" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Report.dll.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Discount.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Discount.resx" />
+  <event action="Analyze" type="Success" name="Email.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Email.resx" />
+  <event action="Analyze" type="Success" name="Lunch.fa-IR.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Lunch.fa-IR.resx" />
+  <event action="Analyze" type="Success" name="Lunch.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Lunch.resx" />
+  <event action="Analyze" type="Success" name="Printf1.fa-IR.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Printf1.fa-IR.resx" />
+  <event action="Analyze" type="Success" name="Printf1.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Printf1.resx" />
+  <event action="Analyze" type="Success" name="Receipt.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Receipt.resx" />
+  <event action="Analyze" type="Success" name="Status.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Status.resx" />
+  <event action="Analyze" type="Success" name="Student.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Student.resx" />
+  <event action="Analyze" type="Success" name="Teacher.fa.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Teacher.fa.resx" />
+  <event action="Analyze" type="Success" name="Teacher.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Teacher.resx" />
+  <event action="Analyze" type="Success" name="Tellist.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Tellist.resx" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Report.dll.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Consult.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Consult.aspx" />
+  <event action="Analyze" type="Success" name="Consult.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Consult.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Consult.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Consult.master" />
+  <event action="Analyze" type="Success" name="Consult.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Consult.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\StudentsConsultation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\StudentsConsultation.aspx" />
+  <event action="Analyze" type="Success" name="StudentsConsultation.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\StudentsConsultation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Consult\web.config" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\DataAccessFields\bin\" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\DataAccessLayer\bin\" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Basic.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Check\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Check\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="SearchChecks.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Check\SearchChecks.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Finance.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Finance.aspx" />
+  <event action="Analyze" type="Success" name="Finance.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Finance.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Finance.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Finance.master" />
+  <event action="Analyze" type="Success" name="Finance.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Finance.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Analyze" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Searchteacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Sinfo.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Hygien.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Hygien.aspx" />
+  <event action="Analyze" type="Success" name="Hygien.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Hygien.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Hygiene.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Hygiene.master" />
+  <event action="Analyze" type="Success" name="Hygiene.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Hygiene.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\StudentsHygiene.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\StudentsHygiene.aspx" />
+  <event action="Analyze" type="Success" name="StudentsHygiene.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\StudentsHygiene.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Hygiene\Web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Login.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Login.aspx" />
+  <event action="Analyze" type="Success" name="Login.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Login.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Noaccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Noaccess.aspx" />
+  <event action="Analyze" type="Success" name="Noaccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Noaccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\packages.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\app.config" />
+  <event action="Analyze" type="Success" name="Balance.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Balance.resx" />
+  <event action="Analyze" type="Success" name="Bedehi.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Bedehi.resx" />
+  <event action="Analyze" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\bin\" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Report.dll.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\bin\Debug\Report.dll.config" />
+  <event action="Analyze" type="Success" name="Discount.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Discount.resx" />
+  <event action="Analyze" type="Success" name="Email.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Email.resx" />
+  <event action="Analyze" type="Success" name="Lunch.fa-IR.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Lunch.fa-IR.resx" />
+  <event action="Analyze" type="Success" name="Lunch.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Lunch.resx" />
+  <event action="Analyze" type="Success" name="Printf1.fa-IR.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Printf1.fa-IR.resx" />
+  <event action="Analyze" type="Success" name="Printf1.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Printf1.resx" />
+  <event action="Analyze" type="Success" name="Receipt.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Receipt.resx" />
+  <event action="Analyze" type="Success" name="Status.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Status.resx" />
+  <event action="Analyze" type="Success" name="Student.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Student.resx" />
+  <event action="Analyze" type="Success" name="Teacher.fa.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Teacher.fa.resx" />
+  <event action="Analyze" type="Success" name="Teacher.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Teacher.resx" />
+  <event action="Analyze" type="Success" name="Tellist.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Tellist.resx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\ShowNews.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\ShowNews.aspx" />
+  <event action="Analyze" type="Success" name="ShowNews.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\ShowNews.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Site.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Site.master" />
+  <event action="Analyze" type="Success" name="Site.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Site.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\Main.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\Main.aspx" />
+  <event action="Analyze" type="Success" name="Main.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\Main.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\Student.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\Student.master" />
+  <event action="Analyze" type="Success" name="Student.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\Student.master" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Student\web.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Support.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Support.aspx" />
+  <event action="Analyze" type="Success" name="Support.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Support.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Searchteacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\Teacher.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\Teacher.master" />
+  <event action="Analyze" type="Success" name="Teacher.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\Teacher.master" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Teacher\web.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="ChangePassword.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Account\ChangePassword.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="ChangePasswordSuccess.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Account\ChangePasswordSuccess.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Basic.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Basic.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="ClassTeacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Class\ClassTeacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="SearchClass.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Class\SearchClass.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Main.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Main.aspx" />
+  <event action="Analyze" type="Success" name="Main.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Main.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\News.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\News.aspx" />
+  <event action="Analyze" type="Success" name="News.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\News.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Report.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Report.aspx" />
+  <event action="Analyze" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Report.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Search.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Search.aspx" />
+  <event action="Analyze" type="Success" name="Search.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Search.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Searchteacher.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Searchteacher.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Sinfo.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Sinfo.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\User.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\User.master" />
+  <event action="Analyze" type="Success" name="User.master" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\User.master" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Analyze" type="Success" name="E:\...\Mehre--Taban\" path="E:\projects\ASP.net (Websites)\Mehre--Taban" />
+  <event action="Analyze" type="Success" name="Solution" path="Solution" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Upgrade" type="Success" name="Main.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Upgrade" type="Success" name="Main.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Main.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\Reports\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Admin\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Bin\" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="Balance.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Balance.resx" />
+  <event action="Upgrade" type="Success" name="Bedehi.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Bedehi.resx" />
+  <event action="Upgrade" type="Success" name="Discount.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Discount.resx" />
+  <event action="Upgrade" type="Success" name="Email.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Email.resx" />
+  <event action="Upgrade" type="Success" name="Lunch.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Lunch.resx" />
+  <event action="Upgrade" type="Success" name="Printf1.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Printf1.resx" />
+  <event action="Upgrade" type="Success" name="Receipt.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Receipt.resx" />
+  <event action="Upgrade" type="Success" name="Status.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Status.resx" />
+  <event action="Upgrade" type="Success" name="Student.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Student.resx" />
+  <event action="Upgrade" type="Success" name="Teacher.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Teacher.resx" />
+  <event action="Upgrade" type="Success" name="Tellist.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\Report\Tellist.resx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Upgrade" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Upgrade" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Upgrade" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Mehre--Taban\web.config" />
+  <event action="Upgrade" type="Success" name="Balance.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Balance.resx" />
+  <event action="Upgrade" type="Success" name="Bedehi.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Bedehi.resx" />
+  <event action="Upgrade" type="Success" name="Discount.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Discount.resx" />
+  <event action="Upgrade" type="Success" name="Email.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Email.resx" />
+  <event action="Upgrade" type="Success" name="Lunch.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Lunch.resx" />
+  <event action="Upgrade" type="Success" name="Printf1.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Printf1.resx" />
+  <event action="Upgrade" type="Success" name="Receipt.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Receipt.resx" />
+  <event action="Upgrade" type="Success" name="Status.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Status.resx" />
+  <event action="Upgrade" type="Success" name="Student.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Student.resx" />
+  <event action="Upgrade" type="Success" name="Teacher.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Teacher.resx" />
+  <event action="Upgrade" type="Success" name="Tellist.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Backup\Report\Tellist.resx" />
+  <event action="Upgrade" type="Success" name="Binary References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Bin\" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Finance\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="Balance.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Balance.resx" />
+  <event action="Upgrade" type="Success" name="Bedehi.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Bedehi.resx" />
+  <event action="Upgrade" type="Success" name="Discount.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Discount.resx" />
+  <event action="Upgrade" type="Success" name="Email.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Email.resx" />
+  <event action="Upgrade" type="Success" name="Lunch.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Lunch.resx" />
+  <event action="Upgrade" type="Success" name="Printf1.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Printf1.resx" />
+  <event action="Upgrade" type="Success" name="Receipt.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Receipt.resx" />
+  <event action="Upgrade" type="Success" name="Status.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Status.resx" />
+  <event action="Upgrade" type="Success" name="Student.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Student.resx" />
+  <event action="Upgrade" type="Success" name="Teacher.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Teacher.resx" />
+  <event action="Upgrade" type="Success" name="Tellist.resx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\Report\Tellist.resx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Report.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\Report.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="SearchInfoDetials.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\SearchInfoDetials.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="TeacherRep.aspx" path="E:\projects\ASP.net (Websites)\Mehre--Taban\User\TeacherRep.aspx" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Upgrade" type="Success" name="Http Handlers" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Upgrade" type="Success" name="Handlers (IIS7+)" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Upgrade" type="Success" name="web.config" path="E:\projects\ASP.net (Websites)\Mehre--Taban\web.config" />
+  <event action="Upgrade" type="Success" name="E:\...\Mehre--Taban\" path="E:\projects\ASP.net (Websites)\Mehre--Taban" />
+  <event action="Upgrade" type="Success" name="Solution" path="Solution" />
+</log>
